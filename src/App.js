@@ -80,7 +80,7 @@ const MainContentStyled = styled.main`
     justify-content: space-evenly;
 
     .line-1, .line-2, .line-3, .line-4 {
-     // width: 1px;
+     //width: 1px;
       min-height: 100vh;
       background-color: var(--border-color);
     }
