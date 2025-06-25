@@ -31,7 +31,7 @@ function Navigation() {
  </ul>
 
     <footer className="footer">
-        <p>@2024 All Rights Reserved by Archana</p>
+        <p>@2025 All Rights Reserved by Archana</p>
         </footer>            
 
         </NavigationStyled>

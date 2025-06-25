@@ -58,9 +58,9 @@ function Resume() {
         </div>
         <div className="resume-content">
           <ResumeItem
-            year={'2015-2016'}
-            title={'DCA (Diploma in Computer Application)'}
-            subTitle={'KEONICS, Rajajinagar, Bangalore'}
+            year={'2021-2022'}
+            title={'FSD (Full Stack Developer)'}
+            subTitle={'GUVI, IIT Madras Research Park, Kanagam Road, Taramani, Chennai, Tamil Nadu'}
             text={''}
           />
 

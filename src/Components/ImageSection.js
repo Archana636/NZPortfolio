@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import resume from '../img/avatar2.jpg';
+import resume from '../img/avatar3.jpg';
 // import { Button } from 'react-bootstrap';
 // import PrimaryButton from './PrimaryButton';
 // import GetAppIcon from '@material-ui/icons/GetApp';
