@@ -32,7 +32,7 @@ function HomePage() {
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a className='btn btn-primary block' rel="noreferrer" href='https://drive.google.com/file/d/1P8BsEnspZ_yv-yEnYPZk0DCKmtZxw_r1/view?usp=sharing' target='_blank'>
+  <a className='btn btn-primary block' rel="noreferrer" href='https://drive.google.com/file/d/1sEoks_1QRSexHgeEJb9GnIkQ7tqLKaXT/view?usp=sharing' target='_blank'>
     Resume <GetAppIcon />
   </a>        
 </div> 
